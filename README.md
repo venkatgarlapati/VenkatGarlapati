@@ -1,4 +1,8 @@
-### Hi there 👋
+### My name is Venkata Ramasastri Garlapati and I'm a full stack developer! 👋
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning VueJs and NodeJS
 
 <!--
 **VenkatGarlapati/VenkatGarlapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
