@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning VueJs and NodeJS
+- 🌱 I'm currently diving into the world of identity management.
 
 <!--
 **VenkatGarlapati/VenkatGarlapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
